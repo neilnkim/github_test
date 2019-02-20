@@ -1,6 +1,8 @@
 # github_test
 test git with github
-1st commit
-2nd commit
-modified at web
+modified from pc gitchub_test, branch issue1
+  - add a comment line
 modified at local pc
+modified at web
+2nd commit
+1st commit
